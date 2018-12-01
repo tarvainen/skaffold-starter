@@ -1,0 +1,15 @@
+{
+  "name": "skaffold-starter",
+  "version": "0.0.1",
+  "description": "This is a starter repo for [skaffold](https://github.com/GoogleContainerTools/skaffold).",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
